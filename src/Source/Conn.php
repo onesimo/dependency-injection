@@ -1,6 +1,7 @@
 <?php
+namespace Source;
 
-class Conn implements Iconn
+class Conn implements IConn
 {	
 	private $dsn;
 	private $user;
