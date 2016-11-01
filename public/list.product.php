@@ -10,5 +10,5 @@
         <td><?=$product['name']?></td>
         <td><?=$product['descr']?></td>
     </tr>
-<?php endforeach; ?>
+    <?php endforeach; ?>
 </table>
